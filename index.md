@@ -3,10 +3,10 @@
 
 # OS241: YFORKU
 
-[LINKS](LINKS/) --- [LOG](TXT/mylog.txt) --- [GitHub](https://github.com/yforku/os241/)
+[LFS AARCH64](LFS/) --- [LINKS](LINKS/) --- [LOG](TXT/mylog.txt) --- [GitHub](https://github.com/yforku/os241/)
 
 I have spoken!
 
 <br><b>
-#### REV04: Sun 18 Feb 2024 05:00
+#### REV05: Wed 21 Feb 2024 22:00
 <br>
