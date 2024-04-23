@@ -4,7 +4,7 @@ permalink: LFS/
 
 # LFS AARCH64 (ARM64)
 
-[HOME](../) --- [LFS ARM64 Book (<span style="color:red; font-weight:bold;">KW</span>)](https://www.linuxfromscratch.org/~xry111/lfs/view/arm64/) --- [LFS 12.0 AMD64 Book (<span style="color:red; font-weight:bold;">ORI</span>)](https://www.linuxfromscratch.org/lfs/view/12.0/) --- [&#x213C;](#idxXX)<br id="idx00">
+[HOME](../) --- [LFS ARM64 Book (<span style="color:red; font-weight:bold;">KW</span>)](https://www.linuxfromscratch.org/~xry111/lfs/view/arm64/) --- [LFS 12.1 AMD64 Book (<span style="color:red; font-weight:bold;">ORI</span>)](https://www.linuxfromscratch.org/lfs/view/12.1/) --- [&#x213C;](#idxXX)<br id="idx00">
 ## TOC
 
 * [Packages](#idx01)
